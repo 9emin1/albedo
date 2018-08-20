@@ -24,4 +24,5 @@ Inspired from projects that has E2EE implementation for financial instituitions 
 2. Add authentication to the backdoor
 3. Add obfuscation on the PHP code
 4. Clean up unnecessary JavaScript code
+5. openssl.cnf file to be in a PHP variable instead of writing to /tmp folder
 
