@@ -12,7 +12,7 @@ Simple PHP webshell that uses the system function to execute command, taken from
 webshells/php/simple-backdoor.php in Kali.
 
 ## misc
-Inspired from projects that has E2EE implementation for financial instituitions that have to abide to some regulations.
+Inspired from projects that has E2EE implementation for financial instituitions that have to abide to some regulations (Singapore MAS).
 
 ## usage
 1. Find a vulnerable server that has an exploitable file upload feature
