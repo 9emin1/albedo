@@ -28,8 +28,4 @@ Inspired from projects that has E2EE implementation for financial instituitions 
 6. Add jsp support
 
 ## demo
-<figure class="video_container">
-    <video controls="true" allowfullscreen="true">
-        <source src="rorymercury-demo.mp4" type="video/mp4">
-    </video>
-</figure>
+(https://github.com/9emin1/rorymercury/blob/master/rorymercury-demo.gif)
