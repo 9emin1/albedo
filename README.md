@@ -28,4 +28,4 @@ Inspired from projects that has E2EE implementation for financial instituitions 
 6. Add jsp support
 
 ## demo
-(https://github.com/9emin1/rorymercury/blob/master/rorymercury-demo.gif)
+![alt text](https://github.com/9emin1/rorymercury/blob/master/rorymercury-demo.gif "Pwn!")
