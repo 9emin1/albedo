@@ -30,6 +30,6 @@ Inspired from projects that has E2EE implementation for financial instituitions 
 ## demo
 <figure class="video_container">
     <video controls="true" allowfullscreen="true">
-        <source src="rorymercury-demo.mov" type="video/mp4">
+        <source src="rorymercury-demo.mp4" type="video/mp4">
     </video>
 </figure>
