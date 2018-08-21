@@ -27,3 +27,9 @@ Inspired from projects that has E2EE implementation for financial instituitions 
 5. openssl.cnf file to be in a PHP variable instead of writing to /tmp folder
 6. Add jsp support
 
+## demo
+<figure class="video_container">
+    <video controls="true" allowfullscreen="true">
+        <source src="rorymercury-demo.mov" type="video/mp4">
+    </video>
+</figure>
