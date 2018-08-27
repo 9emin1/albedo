@@ -1,4 +1,4 @@
-# rorymercury
+# albedo
 Yo dawg I heard you love End-to-End Encryption.
 
 ## description
@@ -16,7 +16,7 @@ Inspired from projects that has E2EE implementation for financial instituitions 
 
 ## usage
 1. Find a vulnerable server that has an exploitable file upload feature
-2. Upload rorymercury.php
+2. Upload the PHP backdoor
 3. Enjoy your encrypted POST request webshell
 
 ## to-do list
@@ -28,4 +28,4 @@ Inspired from projects that has E2EE implementation for financial instituitions 
 6. Add jsp support
 
 ## demo
-![alt text](https://github.com/9emin1/rorymercury/blob/master/rorymercury-demo.gif "Pwn!")
+![alt text](https://github.com/9emin1/rorymercury/blob/master/albedo-demo.gif "Pwn!")
